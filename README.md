@@ -1,4 +1,4 @@
-## GESTION DE LIVRES : une sorte de bibliothème personnelle en ligne
+# GESTION DE LIVRES : une sorte de bibliothème personnelle en ligne
 
 # Une application de gestion de livres. Une sorte de bibliothèque.
 
@@ -54,7 +54,7 @@ Pour une application de gestion de livres avec un espace administrateur pour cha
 
 En suivant cette architecture et ce schéma de base de données, vous devriez pouvoir construire une application de gestion de livres fonctionnelle avec un espace administrateur et un espace utilisateur sur le web.
 
-### MongoDB
+## MongoDB
 # Accès : 
 user : kboue
 password : NvowRa1RXKnyclWZ

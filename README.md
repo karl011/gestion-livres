@@ -55,6 +55,10 @@ Pour une application de gestion de livres avec un espace administrateur pour cha
 En suivant cette architecture et ce schéma de base de données, vous devriez pouvoir construire une application de gestion de livres fonctionnelle avec un espace administrateur et un espace utilisateur sur le web.
 
 # MongoDB
-### Accès au compte pour la création de base de données sur mongo Atlas : 
-user : kboue
-password : NvowRa1RXKnyclWZ
+### Accès au compte pour la création de base de données sur mongo   Atlas : 
+### Cluster0
+    user : kboue
+    password : NvowRa1RXKnyclWZ
+### Livres 
+    user : kboue01
+    password 1 : 3Uh12b3VeRbob3C4

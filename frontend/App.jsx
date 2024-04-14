@@ -1,14 +1,12 @@
-import { useState } from 'react'
 import './App.css'
-import FormulaireLivres from './components/FormulaireLivres'
-import LivresListe from './components/LivresListe'
+import Utilisateur from './src/components/Utilisateur'
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Gestion des Livres</h1>
-        <FormulaireLivres />
-        <LivresListe />
+      <h1>Enregistrer un nouvel utilisateur !</h1>
+       <Utilisateur/>
     </div>
   )
 }
